@@ -3,7 +3,7 @@ public class App {
     {
         Diretor dir = new Diretor("1234567", "bruno", 50000);
 
-        dir.setFaturamento(100000);
+        dir.setFaturamento(300000);
 
         Gerente ger = new Gerente("43824632", "davi", 20000, "TI");
 
